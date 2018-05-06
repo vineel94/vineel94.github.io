@@ -41,6 +41,13 @@ h2{
 	font-size: 22px;
 }
 
+.portfolio-link{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: 700;
+	color: #4aaaa5;
+	text-decoration: none;
+}
+
 #masterheader {
 	background: #fff;
 	margin: 0 0 30px;
